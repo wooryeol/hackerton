@@ -15,9 +15,11 @@
 - 성능 개선을 위한 xgboost tunning
 
 
-링크
+### 링크
 [Kaggle](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting)
+
 [데이터 소스](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/data)
+
 [참고한 자료](https://github.com/ligz08/Kaggle-Recruit-Restaurant-Visitor-Forecasting)
 
 jupyter notebook
